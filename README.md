@@ -8,15 +8,6 @@ equation with your numbers plugged in.
 **This calculator does not certify the fixture's structural safety.** It is a
 geometry and planning tool. The sketch is not CAD or FEA.
 
-## Run
-
-    pip install -r requirements.txt
-    streamlit run app.py
-
-Run the formula tests:
-
-    python -m unittest test_tr_calc.py
-
 ## Files
 
 - `app.py`: Streamlit interface (dark theme, results left, inputs right)
