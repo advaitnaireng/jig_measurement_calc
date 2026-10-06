@@ -1,0 +1,6 @@
+[theme]
+base = "dark"
+primaryColor = "#D9752B"            # burnt-orange accent (sliders, selections)
+backgroundColor = "#141B26"         # main page: slate blue-gray instead of near-black
+secondaryBackgroundColor = "#1E2836" # input boxes, expanders
+textColor = "#E4E9F0"
